@@ -1,9 +1,8 @@
 <h1 align="center" style="position: relative;">
     <img src="https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?rs=1&pid=ImgDetMain" alt="Header Image" style="width: 100%; height: auto; max-width: 100vw; position: absolute; top: 0; left: 0;">
-    <span style="position: relative; z-index: 1; color: white;">Hi 👋, I'm Tamil</span>
+    
 </h1>
-
-
+<h1 align="center">Hi 👋, I'm Tamil</h1>
 
 <h3 align="center">A passionate about Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/123060177/227797198-82940c2a-507a-4bd9-a46a-62b2eb02d7cf.gif">
