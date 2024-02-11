@@ -5,7 +5,7 @@
 
 
 
-### Hi there, I'm [Tamilvendhan 👋 ](https://Tamilvendhan23.github.io)
+### Hi there, I'm [TAMILVENDHAN 👋 ](https://Tamilvendhan23.github.io)
 
 I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the realms of AWS, web development, cybersecurity. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
 
@@ -72,21 +72,14 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/Skillrack-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://skillrack.com)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://#)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/)
+[<img src="https://img.shields.io/badge/Skillrack-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](http://www.skillrack.com/profile/408198/949a69f6a00a9678fedad145aa2293613372538a)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/)
 </p>
 
 | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
