@@ -1,11 +1,9 @@
+[![MasterHead]("https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")]
 <h1 align="center">Hi 👋, I'm Tamil</h1>
 <h3 align="center">A passionate about Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/123060177/227797198-82940c2a-507a-4bd9-a46a-62b2eb02d7cf.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamilvendhan23&label=Profile%20views&color=0e75b6&style=flat" alt="tamilvendhan23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamilvendhan23" alt="tamilvendhan23" /></a> </p>
 
 - 🌱 I’m currently learning **Web development with HTML, CSS, and JavaScript with AWS**
 
