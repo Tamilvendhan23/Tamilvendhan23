@@ -1,4 +1,6 @@
 <h3 align="center">A passionate about Software developer from India</h3>
+
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">
 
 
@@ -18,8 +20,7 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
  **I am open to**:
 
 - Any collaboration work related to web development, cybersecurity, classification, coding, or AWS.,
-- research internships and
-- Available to become a reviewer or PC member for relevant journals or conferences in web development, cybersecurity, classification, coding, or AWS.
+- research internships and Available to become a reviewer or PC member for relevant journals or conferences in web development, cybersecurity, classification, coding, or AWS.
 
 ## Skills:
 
@@ -61,7 +62,6 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 
 #### IDEs
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -79,7 +79,7 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil's github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
