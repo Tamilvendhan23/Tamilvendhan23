@@ -1,4 +1,14 @@
-<h3 align="center">A passionate about Software developer from India</h3>
+<h3 align="center">A passionate about Software developer from India ❤️</h3>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="milaan9"/>       
+    <a href="https://github.com/Tamilvendhan23?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Tamilvendhan23" alt="Repos"/></a>
+    <img src="https://badges.pufler.dev/years/Tamilvendhan23" alt="Active_Years"/>
+    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Tamilvendhan23" alt="commits"/>
+    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Tamilvendhan23/Tamilvendhan23" /></a>
+    <a href="https://github.com/Tamilvendhan23?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Tamilvendhan23?color=4C1&logo=github"></a>
+    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tamilvendhan23/Tamilvendhan23?label=Profile%20update&style=fflat-square"></a>
+   
+</p> 
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">
@@ -82,4 +92,7 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
+</div>
