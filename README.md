@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm Tamil</h1>
 <h3 align="center">A passionate about Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/123060177/227797198-82940c2a-507a-4bd9-a46a-62b2eb02d7cf.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">
 
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
-**My Research Interest**:
-- Outlying Aspect Mining
+### Hi there, I'm [Tamilvendhan 👋 ](https://Tamilvendhan23.github.io)
+
+I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the realms of AWS, web development, cybersecurity. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
+
+**My  Interest**:
+- Web Development
+- Cyber security
 - Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Coding
+- Aws
+
 
  **I am open to**:
 
-- any collaboration work,
-- machine learning projects(development or research),
+- Any collaboration work related to web development, cybersecurity, classification, coding, or AWS.,
 - research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Available to become a reviewer or PC member for relevant journals or conferences in web development, cybersecurity, classification, coding, or AWS.
 
 ## Skills:
 
@@ -71,15 +72,14 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/Skillrack-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://skillrack.com)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil's github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
