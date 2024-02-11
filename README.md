@@ -1,6 +1,7 @@
 <h1 align="center" style="position: relative;">
-    <img src="[https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?rs=1&pid=ImgDetMain](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Header Image" style="width: 100%; height: auto; max-width: 100vw; position: absolute; top: 0; left: 0;">
+    <img src="https://th.bing.com/th/id/OIP.BSqIlqcd7A13A4c7NeBADQHaCO?rs=1&pid=ImgDetMain" alt="Header Image" style="width: 100%; height: auto; max-width: 100vw; position: absolute; top: 0; left: 0;">
 </h1>
+
 <h1 align="center">Hi 👋, I'm Tamil</h1>
 
 <h3 align="center">A passionate about Software developer from India</h3>
