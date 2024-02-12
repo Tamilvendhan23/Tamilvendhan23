@@ -24,7 +24,6 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 **My  Interest**:
 - Web Development
 - Cyber security
-- Classification
 - Coding
 - Aws
 
