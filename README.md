@@ -22,10 +22,10 @@
 I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the realms of AWS, web development, cybersecurity. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
 
 **My  Interest**:
-- Web Development
+- FullStack Development
 - Cyber security
-- Coding
-- Aws
+- Programming
+- AwsCloud
 
 
  **I am open to**:
@@ -51,7 +51,6 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Tools and Technologies
