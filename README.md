@@ -60,6 +60,8 @@ I'm Tamilvendhan, a second-year enthusiast from India, delving deep into the rea
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-29B6F6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 
 #### Database
