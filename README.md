@@ -99,3 +99,5 @@ I'm Tamilvendhan, a pre-final year enthusiast from India, delving deep into the 
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
