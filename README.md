@@ -1,4 +1,6 @@
 
+
+[![](https://visitcount.itsvg.in/api?id=Tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
 <p align="center"> 
   <!-- <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> -->   
     <a href="https://github.com/Tamilvendhan23?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Tamilvendhan23" alt="Repos"/></a>
@@ -100,4 +102,3 @@ I'm Tamilvendhan, a pre-final year enthusiast from India, delving deep into the 
 </h3> 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
