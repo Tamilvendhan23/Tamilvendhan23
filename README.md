@@ -1,6 +1,8 @@
 
 
-[![](https://visitcount.itsvg.in/api?id=Tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
+
+
+[![](https://visitcount.itsvg.in/api?id=tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
 <p align="center"> 
   <!-- <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> -->   
     <a href="https://github.com/Tamilvendhan23?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Tamilvendhan23" alt="Repos"/></a>
@@ -96,8 +98,10 @@ I'm Tamilvendhan, a pre-final year enthusiast from India, delving deep into the 
 | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tamilvendhan23&theme=transparent&hide_border=false)
 <div align="center">
-   
+
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 </div>
