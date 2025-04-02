@@ -4,7 +4,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
 <p align="center"> 
-  <!-- <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> -->   
+  <!-- <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> --> 
+   <img src="https://komarev.com/ghpvc/?username=tamilvendhan23&label=Profile%20views&color=0e75b6&style=flat" alt="visit" />
     <a href="https://github.com/Tamilvendhan23?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Tamilvendhan23" alt="Repos"/></a>
     <img src="https://badges.pufler.dev/years/Tamilvendhan23" alt="Active_Years"/>
     <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Tamilvendhan23" alt="commits"/>
