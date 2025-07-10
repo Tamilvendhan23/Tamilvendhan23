@@ -1,19 +1,16 @@
-
-
-
-
-[![](https://visitcount.itsvg.in/api?id=tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in)
-<p align="center"> 
-  <!-- <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> --> 
+<!--[![](https://visitcount.itsvg.in/api?id=tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in) -->
    <img src="https://komarev.com/ghpvc/?username=tamilvendhan23&label=Profile%20views&color=0e75b6&style=flat" alt="visit" />
+<!-- <p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> 
+
     <a href="https://github.com/Tamilvendhan23?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Tamilvendhan23" alt="Repos"/></a>
     <img src="https://badges.pufler.dev/years/Tamilvendhan23" alt="Active_Years"/>
     <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Tamilvendhan23" alt="commits"/>
     <a href="https://github.com/Tamilvendhan23/Tamilvendhan23/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Tamilvendhan23/Tamilvendhan23" /></a>
     <a href="https://github.com/Tamilvendhan23?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Tamilvendhan23?color=4C1&logo=github"></a>
-   <!-- <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tamilvendhan23/Tamilvendhan23?label=Profile%20update&style=fflat-square"></a> -->
+    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tamilvendhan23/Tamilvendhan23?label=Profile%20update&style=fflat-square"></a>  
    
-</p> 
+</p> -->
 
 <h3 align="center">A passionate about Software developer from India ❤️</h3><br>
 <!--<img align="right" alt="coding" width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif">-->
@@ -24,7 +21,7 @@
 
 ### Hi there, I'm [TAMILVENDHAN !👋 ](https://Tamilvendhan23.github.io)
 
-I'm Tamilvendhan, a pre-final year enthusiast from India, delving deep into the realms of AWS, web development, cybersecurity. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
+I'm Tamilvendhan, a final year enthusiast from India, delving deep into the realms of AWS, web development, cybersecurity. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
 
 **My  Interest**:
 - FullStack Development
@@ -98,23 +95,35 @@ I'm Tamilvendhan, a pre-final year enthusiast from India, delving deep into the 
 
 ## Connect with me:
 
-<p align = "center">
+<div align="center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://#)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/)
 [<img src="https://img.shields.io/badge/Skillrack-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](http://www.skillrack.com/profile/408198/949a69f6a00a9678fedad145aa2293613372538a)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/)
-</p>
-
-| <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilvendhan23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamil github status" /></a> | <a href="https://github.com/Tamilvendhan23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilvendhan23&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tamilvendhan23&theme=transparent&hide_border=false)
-<div align="center">
-
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3> 
 </div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <b>LeetCode Profile</b><br>
+      <img src="https://leetcard.jacoblin.cool/tamilvendhan23?ext=heatmap" alt="LeetCode Profile">
+    </td>
+    <td align="center">
+      <b>GeeksforGeeks Stats</b><br>
+      <a href="https://www.geeksforgeeks.org/user/tamilvendhan/">
+        <img src="https://gfgstatscard.vercel.app/tamilvendhan" alt="GeeksforGeeks stats">
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilvendhan23&theme=transparent&hide_border=false" alt="GitHub Streak" />
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3>
+</div>
+
 
