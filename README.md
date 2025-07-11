@@ -120,7 +120,7 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
   </tr>
 </table>
 <br>
-
+<h3> GitHub Streaks</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilvendhan23&theme=transparent&hide_border=false" alt="GitHub Streak" />
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3>
