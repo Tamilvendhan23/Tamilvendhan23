@@ -105,7 +105,11 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
 </div>
 
 <div align="center">
+
+</div>
+
 <table>
+  <!-- Top Row: LeetCode and GFG -->
   <tr>
     <td align="center">
       <b>LeetCode Profile</b><br>
@@ -118,12 +122,25 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
       </a>
     </td>
   </tr>
-</table>
-<br>
-<h3> GitHub Streaks</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilvendhan23&theme=transparent&hide_border=false" alt="GitHub Streak" />
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3>
-</div>
 
+  <!-- Middle Row: GitHub Stats and Streak -->
+  <tr>
+    <td align="center">
+      <b>GitHub Stats</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=tamilvendhan23&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <b>GitHub Streak</b><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilvendhan23&theme=transparent&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+
+  <!-- Bottom Row: Top Languages spanning 2 columns -->
+  <tr>
+    <td colspan="2" align="center">
+      <b>Top Languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvendhan23&layout=compact&theme=transparent&hide_border=false" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
