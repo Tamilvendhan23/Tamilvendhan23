@@ -21,7 +21,7 @@
 
 ### Hi there, I'm [TAMILVENDHAN !👋 ](https://Tamilvendhan23.github.io)
 
-I'm Tamilvendhan, a final year enthusiast from India, delving deep into the realms of AWS, web development, cybersecurity. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
+I'm Tamilvendhan, a final year enthusiast from India, delving deep into the realms of AWS, web development. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
 
 **My  Interest**:
 - FullStack Development
