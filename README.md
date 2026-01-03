@@ -25,7 +25,6 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
 
 **My  Interest**:
 - FullStack Development
-- Cyber security
 - Programming
 - AwsCloud
 
