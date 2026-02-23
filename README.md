@@ -32,7 +32,7 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
  **I am open to**:
 
 - Any collaboration work related to web development, full stack development, coding, or AWS.,
-- research internships and Available to become a reviewer or PC member for relevant journals or conferences in web development, cybersecurity, classification, coding, or AWS.
+- research internships and Available to become a reviewer or PC member for relevant journals or conferences in web development classification, coding, or AWS.
 
 ## Skills:
 
