@@ -28,7 +28,6 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
 - Programming
 - AwsCloud
 
-
  **I am open to**:
 
 - Any collaboration work related to web development, full stack development, coding, or AWS.,
