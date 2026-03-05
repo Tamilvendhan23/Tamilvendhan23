@@ -131,8 +131,9 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilvendhan23&theme=transparent&hide_border=false" alt="GitHub Streak">
     </td>
   </tr>
-
+  
   <!-- Bottom Row: Top Languages spanning 2 columnss -->
+  <!-- bottom row -->
   <tr>
     <td colspan="2" align="center">
       <b>Top Languages</b><br>
