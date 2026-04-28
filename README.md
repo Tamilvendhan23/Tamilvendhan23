@@ -12,7 +12,6 @@
     <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tamilvendhan23/Tamilvendhan23?label=Profile%20update&style=fflat-square"></a>  
    
 </p> -->
-
 <h3 align="center">A passionate about Software developer from India ❤️</h3><br>
 <!--<img align="right" alt="coding" width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif">-->
 <!--<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">-->
