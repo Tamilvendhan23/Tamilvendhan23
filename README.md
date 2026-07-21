@@ -11,27 +11,23 @@
     <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tamilvendhan23/Tamilvendhan23?label=Profile%20update&style=fflat-square"></a>  
    
 </p> -->
-<h3 align="center">A passionate about Software developer from India ❤️</h3><br>
 <!--<img align="right" alt="coding" width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif">-->
 <!--<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">-->
 <!--<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.88c78d17bb9bc202edc0c1fc2eb38f32?rik=LkUyQO64xeKtbw&riu=http%3a%2f%2felitetechnocrats.com%2fimages%2fsoftware_devlopment.gif&ehk=6AD7zgGC6jwLfDIHxT0litMN1sq3X3g2USbMwlyMxn4%3d&risl=&pid=ImgRaw&r=0"> -->
 
 
 
-### Hi there, I'm [TAMILVENDHAN !👋 ](https://Tamilvendhan23.github.io)
-
-I'm Tamilvendhan, a final year enthusiast from India, delving deep into the realms of AWS, web development. With an insatiable curiosity, I explore the intricate landscapes of technology, aiming to leave a mark in the ever-evolving digital world."
+### Hi there, I'm [Tamilvendhan 👋! ](https://Tamilvendhan23.github.io)
+<h3 align="center">
+QA Test Engineer | Full Stack Developer | AWS Certified Cloud Practitioner | India ❤️
+</h3>
+ B.Tech Information Technology graduate from India and currently working as an AQ (Automation & Quality) Test Engineer. I specialize in API Testing, Test Automation, and Full Stack Development. I enjoy building reliable software, automating test workflows, and continuously learning modern technologies."
 
 **My  Interest**:
 - FullStack Development
 - Programming
 - Cloud Computing
-
- **I am open to**:
-
-- Any collaboration work related to web development, full stack development, coding, or Cloud Computing.,
-- research internships and Available to become a reviewer or PC member for relevant journals or conferences in web development, Full stack Development, coding, or AWS.
-
+  
 ## Skills:
 
 #### Languages:
@@ -59,8 +55,7 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 
@@ -72,8 +67,16 @@ I'm Tamilvendhan, a final year enthusiast from India, delving deep into the real
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)&nbsp;
 
+#### API Testing & QA
 
-
+![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=karate-framework&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
