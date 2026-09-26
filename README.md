@@ -17,7 +17,7 @@
 
 
 
-### Hi there, I'm [Tamilvendhan 👋! ](https://Tamilvendhan23.github.io)
+
 <h3 align="center">
 QA Test Engineer | Full Stack Developer | AWS Certified Cloud Practitioner | India ❤️
 </h3>
