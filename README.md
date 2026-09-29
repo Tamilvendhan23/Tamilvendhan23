@@ -27,7 +27,7 @@ QA Test Engineer | Full Stack Developer | AWS Certified Cloud Practitioner | Ind
 - FullStack Development
 - Problem solving 
 - Cloud Computing
-- Qa Automation 
+- QA Test Automation 
   
 ## Skills:
 
