@@ -1,147 +1,107 @@
-<!--[![](https://visitcount.itsvg.in/api?id=tamilvendhan23&icon=0&color=3)](https://visitcount.itsvg.in) -->
-   <img src="https://komarev.com/ghpvc/?username=tamilvendhan23&label=Profile%20views&color=0e75b6&style=flat" alt="visit" />
-<!-- <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=Tamilvendhan23" alt="Tamilvendhan23"/> 
-
-    <a href="https://github.com/Tamilvendhan23?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Tamilvendhan23" alt="Repos"/></a>
-    <img src="https://badges.pufler.dev/years/Tamilvendhan23" alt="Active_Years"/>
-    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Tamilvendhan23" alt="commits"/>
-    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Tamilvendhan23/Tamilvendhan23" /></a>
-    <a href="https://github.com/Tamilvendhan23?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Tamilvendhan23?color=4C1&logo=github"></a>
-    <a href="https://github.com/Tamilvendhan23/Tamilvendhan23" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tamilvendhan23/Tamilvendhan23?label=Profile%20update&style=fflat-square"></a>  
-   
-</p> -->
-<!--<img align="right" alt="coding" width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif">-->
-<!--<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">-->
-<!--<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.88c78d17bb9bc202edc0c1fc2eb38f32?rik=LkUyQO64xeKtbw&riu=http%3a%2f%2felitetechnocrats.com%2fimages%2fsoftware_devlopment.gif&ehk=6AD7zgGC6jwLfDIHxT0litMN1sq3X3g2USbMwlyMxn4%3d&risl=&pid=ImgRaw&r=0"> -->
-
-
-
-
-<h3 align="center">
-QA Test Engineer | Full Stack Developer | AWS Certified Cloud Practitioner | India ❤️
-</h3>
- B.Tech Information Technology graduate from India and currently working as an AQ (Automation & Quality) Test Engineer. I specialize in API Testing, Test Automation, and Full Stack Development. I enjoy building reliable software, automating test workflows, and continuously learning modern technologies."
-
-**My  Interest**:
-- FullStack Development
-- Problem solving 
-- Cloud Computing
-- QA Test Automation 
-  
-## Skills:
-
-#### Languages:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-#### Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp; 
-
-#### Tools and Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-29B6F6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)&nbsp;
-
-#### API Testing & QA
-
-![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=karate-framework&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-
-<!--#### IDEs
-
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-2C2D72?style=for-the-badge&logo=code::blocks&logoColor=white)&nbsp;-->
-
-
-## Connect with me:
-
 <div align="center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://#)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/)
-[<img src="https://img.shields.io/badge/Skillrack-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](http://www.skillrack.com/profile/408198/949a69f6a00a9678fedad145aa2293613372538a)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=170&section=header&text=Tamilvendhan&fontSize=52&fontColor=e6edf3&fontAlignY=42&desc=QA%20Automation%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=68" alt="Tamilvendhan" width="100%" />
+
+<p>
+     <img src="https://img.shields.io/badge/QA-Test%20Engineer-238636?style=flat-square&logo=testcafe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full%20Stack-Developer-8957e5?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/India-30363d?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=tamilvendhan23" />
+</p>
+
 </div>
 
-<div align="center">
+<br/>
 
-</div>
+## About
+
+I build and verify reliable software. As an **Automation & Quality (AQ) Test Engineer**, I design API test suites, automate regression workflows and wire quality checks into CI pipelines. As a **full stack developer**, I build web applications end to end, which keeps my testing grounded in how systems are actually built.
 
 <table>
-  <!-- Top Row: LeetCode and GFG -->
-  <tr>
-    <td align="center">
-      <b>LeetCode Profile</b><br>
-      <img src="https://leetcard.jacoblin.cool/tamilvendhan23?ext=heatmap" alt="LeetCode Profile">
-    </td>
-    <td align="center">
-      <b>GeeksforGeeks Stats</b><br>
-      <a href="https://www.geeksforgeeks.org/user/tamilvendhan/">
-        <img src="https://gfgstatscard.vercel.app/tamilvendhan" alt="GeeksforGeeks stats">
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <!-- Middle Row: GitHub Stats and Streak -->
-  <tr>
-    <td align="center">
-      <b>GitHub Stats</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=tamilvendhan23&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats">
-    </td>
-    <td align="center">
-      <b>GitHub Streak</b><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilvendhan23&theme=transparent&hide_border=false" alt="GitHub Streak">
-    </td>
-  </tr>
-  
-  <!-- Bottom Row: Top Languages spanning 2 columnss -->
-  <!-- bottom row -->
-  <tr>
-    <td colspan="2" align="center">
-      <b>Top Languages</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvendhan23&layout=compact&theme=transparent&hide_border=false" alt="Top Languages">
-    </td>
-  </tr>
+**What I do**
+
+- API testing and validation (REST, JSON, Swagger)
+- Test automation frameworks in Java and Python
+- CI integration with GitHub Actions and Maven
+- Full stack web apps with React, Node.js and Express
+
+</td>
+<td width="50%" valign="top">
+
+**What I'm building towards**
+
+- Deeper expertise in cloud architecture on AWS
+- Scalable, maintainable automation frameworks
+- Strong foundations in data structures and algorithms
+- Cleaner, better-tested full stack applications
+
+</td>
+</tr>
 </table>
 
+<br/>
+
+## Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,py,js,c,html,css,bootstrap,tailwind,react,nodejs,express,postman,swagger,maven,githubactions,git,github,mysql,postgres,mongodb,aws,firebase,linux,vscode,androidstudio,notion&theme=dark&perline=13" alt="Tech stack" />
+
+<details>
+<summary><sub>Full list</sub></summary>
+<br/>
+
+<sub>
+Java · Python · JavaScript · C · HTML5 · CSS3 · Bootstrap · Tailwind CSS · React · Node.js · Express.js · Karate · Postman · Bruno · Swagger · REST · JSON · Maven · GitHub Actions · Git · GitHub · MySQL · PostgreSQL · MongoDB · AWS · Firebase · Linux · Power BI · VS Code · Android Studio · Notion
+</sub>
+
+</details>
+
+</div>
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="32%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tamilvendhan23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&card_width=330" />
+<img width="32%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvendhan23&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=330" />
+<img width="32%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=tamilvendhan23&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+</div>
+
+<br/>
+
+## Problem Solving
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><a href="https://leetcode.com/tamilvendhan23"><img src="https://leetcard.jacoblin.cool/tamilvendhan23?ext=heatmap&theme=dark&border=0" alt="LeetCode" /></a></td>
+<td align="center"><a href="https://www.geeksforgeeks.org/user/tamilvendhan/"><img src="https://gfgstatscard.vercel.app/tamilvendhan" alt="GeeksforGeeks" /></a></td>
+</tr>
+</table>
+</div>
+
+<br/>
+<!--
+## Connect
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-30363d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="http://www.skillrack.com/profile/408198/949a69f6a00a9678fedad145aa2293613372538a"><img src="https://img.shields.io/badge/SkillRack-30363d?style=for-the-badge" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" width="100%" />
+
+</div>
