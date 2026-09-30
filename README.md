@@ -71,8 +71,9 @@ Java · Python · JavaScript · C · HTML5 · CSS3 · Bootstrap · Tailwind CSS 
 <div align="center">
 
 <img width="32%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tamilvendhan23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&card_width=330" />
-<img width="32%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvendhan23&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=330" />
 <img width="32%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=tamilvendhan23&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img width="32%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvendhan23&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=330" />
+
 
 </div>
 
